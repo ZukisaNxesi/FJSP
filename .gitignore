@@ -32,4 +32,5 @@ Thumbs.db
 # Temporary/accidental files
 =*
 *.tmp
-*.log
+*.log__pycache__/
+*.pyc

@@ -72,7 +72,7 @@ def main():
         util = (worker_end[w] / schedule['makespan']) * 100 if schedule['makespan'] > 0 else 0
         print(f"  Worker {w}: {util:.1f}% utilized")
     
-    print("\n✅ Decoder test complete!")
+    print("\nDecoder test complete!")
 
 
 if __name__ == "__main__":

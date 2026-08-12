@@ -406,7 +406,7 @@ def main():
         verbose=False              # Quiet mode for speed
     )
     
-    print("\n✅ Experiments complete!")
+    print("\nExperiments complete!")
 
 
 if __name__ == "__main__":
